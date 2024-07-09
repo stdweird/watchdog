@@ -89,7 +89,7 @@ setup(
     name="watchdog",
     version=version.VERSION_STRING,
     description="Filesystem events monitoring",
-    long_description=readme + "\n\n" + changelog,
+    long_description="watchdog python api",
     long_description_content_type="text/x-rst",
     author="Yesudeep Mangalapilly",
     author_email="yesudeep@gmail.com",
